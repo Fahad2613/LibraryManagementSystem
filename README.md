@@ -22,4 +22,4 @@ This project demonstrates object-oriented programming, collections, and basic da
 
 1. Clone the repository:  
    ```bash
-   [git clone https://github.com/Fahad2613/LibraryManagementSystem.git
+   git clone https://github.com/Fahad2613/LibraryManagementSystem.git
